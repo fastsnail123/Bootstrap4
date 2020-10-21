@@ -20,7 +20,8 @@
 .jumbotron {
     padding:70px 30px 70px 40px;
     margin:0px auto;
-    background: azure;
+    background: rgb(76, 114, 192);
+    color:whitesmoke
     
 }
 
