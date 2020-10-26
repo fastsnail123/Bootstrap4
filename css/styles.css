@@ -25,9 +25,10 @@
     
 }
 
-.address{
+address{
     font-size: 80%;
     margin:0px;
+    color: #0f0f0f;
 
 }
 body{
@@ -45,4 +46,8 @@ body{
     border-right: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
     padding:10px;  
+}
+
+a{
+    text-decoration: none;
 }
